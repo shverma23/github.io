@@ -1,0 +1,8 @@
+
+body { font-family: Arial, sans-serif; margin: 0; background: #f4f4f4; color: #333; }
+header { background: #004466; color: white; padding: 20px; text-align: center; }
+nav a { color: white; margin: 0 10px; text-decoration: none; font-weight: bold; }
+main { max-width: 900px; margin: auto; padding: 20px; background: white; }
+h2 { color: #004466; }
+.card { background: #e9f2f7; padding: 15px; margin: 15px 0; border-radius: 8px; }
+footer { text-align: center; padding: 10px; font-size: 0.9em; background: #ddd; margin-top: 20px; }
